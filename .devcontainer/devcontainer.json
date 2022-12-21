@@ -94,7 +94,6 @@
 		// developers-xcvm
 		"humao.rest-client",
 	],
-	"remoteUser": "vscode",
 	"features": {
 		// TODO: replace adhoc injection and derivation with manual docker/nix 
 		"docker-in-docker": "20.10",
