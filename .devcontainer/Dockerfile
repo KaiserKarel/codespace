@@ -1,1 +1,2 @@
-FROM composablefi/composable-devcontainer-minimal:latest
+FROM mcr.microsoft.com/devcontainers/universal:linux
+RUN 
