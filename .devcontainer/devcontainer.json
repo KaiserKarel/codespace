@@ -98,5 +98,8 @@
 	"features": {
 		// TODO: replace adhoc injection and derivation with manual docker/nix 
 		"docker-in-docker": "20.10",
-	},
+		"ghcr.io/devcontainers/features/sshd:1": {
+			"version": "latest"
+		}
+	} 
 }
