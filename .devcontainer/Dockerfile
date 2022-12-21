@@ -1,2 +1,2 @@
 FROM mcr.microsoft.com/devcontainers/universal:linux
-RUN 
+USER vscode
